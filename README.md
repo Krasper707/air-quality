@@ -1,4 +1,4 @@
-# 🌍 Global AQI Monitor
+# Global AQI Monitor
 
 A real-time, interactive air quality dashboard that tracks pollution levels from over 30,000 stations worldwide. This app identifies the most polluted locations on Earth and provides actionable health recommendations based on live AQI (Air Quality Index) data.
 
@@ -8,7 +8,7 @@ A real-time, interactive air quality dashboard that tracks pollution levels from
 
 ---
 
-## ✨ Features
+## Features
 
 - **Global Heatmap:** Interactive dark-mode map visualizing pollution levels using color-coded markers.
 - **Pollution Leaderboard:** A "Hall of Shame" automatically ranking the top 15 most polluted cities currently being tracked.
@@ -19,7 +19,7 @@ A real-time, interactive air quality dashboard that tracks pollution levels from
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend:** React 18 with Vite
 - **Language:** TypeScript
@@ -29,7 +29,7 @@ A real-time, interactive air quality dashboard that tracks pollution levels from
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -84,4 +84,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Karthik Murali M
 
-Project Link: [https://github.com/your-username/global-aqi-monitor](https://github.com/your-username/global-aqi-monitor)
+Project Link: [Link](https://air-quality-gray.vercel.app/)
