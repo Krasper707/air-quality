@@ -151,6 +151,7 @@ export default function App() {
     <div className="main-layout">
       <div className="sidebar">
         <h2>🌍 AQI Dashboard</h2>
+        <p className="author">by Karthik Murali M</p>
 
         <input
           placeholder="Search city..."
