@@ -101,9 +101,7 @@
   transition: transform 0.25s ease;
 }
 
-.marker:hover {
-  transform: scale(1.4);
-}
+
 
 /* 🔹 Popup */
 .leaflet-popup-content-wrapper {
